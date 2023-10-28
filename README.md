@@ -1,13 +1,12 @@
-[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 # Weapon detection datasets
 
 An automatic weapon detection system can provide the early detection of potentially violent situations that is of 
-paramount importance for citizens security. One way to prevent these situations is by detecting the presence of 
+paramount importance for citizens' security. One way to prevent these situations is by detecting the presence of 
 dangerous objects such as handguns and knives in surveillance videos. Deep Learning techniques based on Convolutional 
 Neural Networks can be trained to detect this type of object.
 
 The Sohas weapon detection dataset is formed by weapons and small objects that are handled in a similar way. 
-It includes six different objects such as pistol, knife, bill, purse, smartphone and card. 
+It includes six different objects such as a pistol, knife, bill, purse, smartphone, and card. 
 This dataset is designed in the related publication giving additional information about the image dataset and experiment results.
 
 You can read more information about these datasets in 
